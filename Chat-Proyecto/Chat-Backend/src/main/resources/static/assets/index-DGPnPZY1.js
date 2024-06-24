@@ -1,0 +1,1 @@
+import{j as t}from"./index-BtizlqDG.js";function s(){return t.jsx("div",{className:" min-h-svh bg-neutral-800",children:t.jsx("p",{className:" text-white text-xl",children:"404"})})}export{s as default};
